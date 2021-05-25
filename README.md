@@ -32,10 +32,3 @@ Usage of 3rd party open source components are encouraged.
 The implementation should consider, but not necessarily include.
 -Redundancy
 -Scalability
-
-Delivery
-----------------------------
-The service should be made available to TriOptima with clear instructions on 
-how to build/compile/run the service. Usage of common techniques for building 
-the service and managing dependencies is encouraged. E.g. Maven in Java or pip 
-in Python.
